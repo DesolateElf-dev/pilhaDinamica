@@ -40,10 +40,7 @@ public class Principal {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		
-//		p.push(1);
-//		p.push(2);
-//		p.push(3);
+
 	}
 
 }
